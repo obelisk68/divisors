@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'divisors'
+
+p ARGV[0].divisors
